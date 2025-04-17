@@ -1,0 +1,8 @@
+{
+  "prejoinPageEnabled": false,
+  "lobbyModeEnabled": false,
+  "startWithAudioMuted": false,
+  "startWithVideoMuted": false,
+  "disableInviteFunctions": true,
+  "disableDeepLinking": true
+}
